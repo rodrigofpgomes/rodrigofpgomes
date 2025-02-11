@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**rodrigofpgomes/rodrigofpgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently in my first year of a Master's degree in Electrical and Computer Engineering at the **Instituto Superior Técnico**. My specialization is in **Control, Robotics, and AI**, with a secondary focus on **Circuits and Electronic Systems**.
 
-Here are some ideas to get you started:
+### 🚀 Current Work
+I am currently working on the **CAPTURE** project at **ISR (Institute for Systems and Robotics)**. My main focus is on **actuator and servo control** in the capture mechanism, utilizing:
+- **ROS2**
+- **PX4**
+- **Mavsdk Library**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills & Interests
+- Robotics and Autonomous Systems 🤖
+- Control Systems ⚙️
+- Embedded Systems and Electronics 🔋
+- AI & Machine Learning 🧠
+
+### 📫 How to reach me: rodrigofpgomes@gmail.com
